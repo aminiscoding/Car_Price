@@ -33,7 +33,7 @@ def get_detail(p):
         temp.append(price[i])
         all.append(temp)    
 
-for i in range(1, 3):
+for i in range(1,11):
     get_detail(i)
 
 x = []
